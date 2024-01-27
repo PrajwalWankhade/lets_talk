@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "392196860074",
+    "project_id": "lets-chat-da3cb",
+    "storage_bucket": "lets-chat-da3cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392196860074:android:b48de53fa7e443082188d3",
+        "android_client_info": {
+          "package_name": "com.example.lets_talk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7ylRborEG32hWsenoTwd22LsX5DYZVYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
